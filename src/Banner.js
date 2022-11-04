@@ -1,6 +1,6 @@
 import React from "react";
 import "./Banner.css";
-import BLACK_BANNER from "./resources/img/black-banner.jpeg";
+import BLACK_BANNER from "./resources/img/black-banner.png";
 
 function Banner() {
   function truncate(string, n) {
