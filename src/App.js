@@ -5,9 +5,7 @@ import LoginScreen from "./screens/LoginScreen";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
-  const user = {
-    name: "sonny",
-  };
+  const user = null;
   return (
     <div className="app">
       <Router>
