@@ -24,13 +24,13 @@ function Nav() {
         <img
           className="nav__logo"
           src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png"
-          alt="netflix logo image"
+          alt="netflix logo"
         />
 
         <img
           className="nav__avatar"
           src={NINJA}
-          alt="ninja-avatar image"
+          alt="ninja-avatar"
         />
       </div>
     </div>
